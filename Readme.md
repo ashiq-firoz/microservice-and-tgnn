@@ -1,7 +1,7 @@
 <!-- pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu121 -->
 
 
-# 📚 Microservice Behavior Prediction with Temporal Graph Neural Networks (TGNN) 🤖
+# 📚 Microservice Behavior Prediction with Temporal Graph Neural Networks (TGNN) 
 
  This repository contains a complete pipeline for predicting future resource usage and service request patterns in a microservice-based system using a **Temporal Graph Neural Network (TGNN)**. Below is a detailed guide to help you understand, set up, and use this project effectively.
 
