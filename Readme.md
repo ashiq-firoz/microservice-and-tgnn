@@ -32,8 +32,8 @@ Here’s an overview of the project files and their purpose:
 | `cpu_usage.csv`                 | Contains CPU usage data (Pod, timestamp, CPU usage).                                          |
 | `memory_usage.csv`              | Contains memory usage data (Pod, timestamp, memory usage).                                    |
 | `microservice_tgnn_model.pth`   | The trained TGNN model file for making predictions.                                           |
-| `test_model.py`                 | A standalone script to load the trained model and make predictions.                           |
-| `visualizations/`               | Directory for saving visualizations (optional).                                               |
+| `test-model.py`                 | A standalone script to load the trained model and make predictions.                           |
+| `trial1.py`                     | Python code to generate the model                                                             |
 
 ---
 
