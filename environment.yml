@@ -1,0 +1,12 @@
+name: devops
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - anaconda
+  - python=3.9
+pip:
+  - -r pip-requirements.txt
+prefix: D:\Anaconda\envs\devops
